@@ -43,7 +43,7 @@ You need:
 Start from cloning the repository and moving into the project folder:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/FatDangg/Youtube-Downloader.git
 cd Youtube\ Downloader
 ```
 
